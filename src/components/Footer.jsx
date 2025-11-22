@@ -76,7 +76,7 @@ export default class Footer extends Component {
             {/* Copyright Info - Right */}
             <div className="flex flex-col gap-2 text-sm text-right">
               <div className="text-white text-right">
-                Organized by UX Club
+                Organized by UX Club and SDC
               </div>
             </div>
           </div>
