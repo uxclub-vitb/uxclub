@@ -128,7 +128,10 @@ export default class Benefit extends Component {
                       </svg>
                     </div>
                     <span className="text-sm md:text-xl capitalize font-mono font-light">
-                      Official Offline Certificates
+                      <span className="font-semibold">
+                        Official Certificates + Google Codesource Goodies
+                      </span>{" "}
+                      to the winning team
                     </span>
                   </div>
 
