@@ -396,7 +396,7 @@ export default class Benefit extends Component {
                   <img className="object-cover h-8 w-8 md:h-14 md:w-14" src={star} alt="" />
                 </div>
                 <h2 className="font-mono font-medium text-3xl lg:text-4xl leading-none tracking-tight text-gray-900">
-                  Event Format (Day-1)
+                  Event Format (Round-1)
                 </h2>
               </div>
               <div className="w-16 h-[1px] bg-[#bbecff]"></div>
@@ -606,7 +606,7 @@ export default class Benefit extends Component {
                   <img className="object-cover h-8 w-8 md:h-14 md:w-14" src={star} alt="" />
                 </div>
                 <h2 className="font-mono font-medium text-3xl lg:text-4xl leading-none tracking-tight text-gray-900">
-                  Day 2: Online Judging Round (Paid)
+                  Round 2: Development And Judging Round (Paid)
                 </h2>
               </div>
               <div className="w-16 h-[1px] bg-[#bbecff]"></div>
@@ -622,7 +622,7 @@ export default class Benefit extends Component {
                     Evaluation + Winner Announcement
                   </h2>
                 <p className="font-mono text-sm md:text-lg tracking-tight leading-[1.2] pt-3 font-light mb-8 text-center">
-                  Paid evening round featuring live judging, continuous mentorship, and a closing ceremony announcing the winners.
+                  Development Round requires qualified participants to turn the given (possibly shuffled) design into a working web application. A small fee confirms your slot, followed by live judging, mentorship, and a closing ceremony announcing the winners
                 </p>
                 <div className="flex items-center bg-white rounded-2xl gap-2 w-fit  px-2 my-2 mb-4 md:mb-6">
                   <div className="h-4 w-4 md:h-5 md:w-5">
