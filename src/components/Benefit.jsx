@@ -554,7 +554,7 @@ export default class Benefit extends Component {
                     </svg>
                   </div>
                   <span className="text-sm md:text-xl font-mono font-light">
-                    Top 30 teams announced by 11:00 PM - 24/11/2025
+                    The selected teams will be announced by 6:00 PM - 28/11/2025 via E-Mail
                   </span>
                 </div>
               </div>
