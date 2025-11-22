@@ -447,7 +447,9 @@ export default class Benefit extends Component {
                     </svg>
                   </div>
                   <span className="text-sm md:text-lg capitalize font-mono font-light">
-                    Free registration
+                    <span className="font-semibold">
+                        Free registration
+                    </span>{" "}
                   </span>
                 </div>
                 <div className="flex items-center bg-white rounded-2xl gap-2 w-fit  px-2 my-2 mb-4 md:mb-6">
@@ -619,7 +621,7 @@ export default class Benefit extends Component {
                     />
                   </div>
                   <h2 className="font-mono text-xl md:text-3xl capitalize text-center py-2 px-2 leading-tight">
-                    Evaluation + Winner Announcement
+                    Evaluation + Winner Announcement (30/11/2025)
                   </h2>
                 <p className="font-mono text-sm md:text-lg tracking-tight leading-[1.2] pt-3 font-light mb-8 text-center">
                   Development Round requires qualified participants to turn the given (possibly shuffled) design into a working web application. A small fee confirms your slot, followed by live judging, mentorship, and a closing ceremony announcing the winners
@@ -657,9 +659,11 @@ export default class Benefit extends Component {
                     </svg>
                   </div>
                   <span className="text-sm md:text-lg capitalize font-mono font-light">
-                    7:00 PM - 8:00 PM: Welcome address
+                    Submit your deployed project URL on 30th November before 12:00PM.
                   </span>
                 </div>
+                
+              
                 <div className="flex items-center bg-white rounded-2xl gap-2 w-fit  px-2 my-2 mb-4 md:mb-6">
                   <div className="h-4 w-4 md:h-5 md:w-5">
                     <svg
