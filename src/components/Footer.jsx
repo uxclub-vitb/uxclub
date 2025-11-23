@@ -66,7 +66,7 @@ export default class Footer extends Component {
           <div className="flex flex-col md:flex-row justify-between items-center gap-6 md:gap-0">
             {/* Design2Code Text - Left */}
             <div className="text-white flex justify-center md:justify-start w-full md:w-auto">
-              <svg viewBox="0 0 600 120" className="w-full max-w-md h-auto ml-14 md:ml-0">
+              <svg viewBox="0 0 600 120" className="w-full max-w-md h-auto ml-12 md:ml-0">
                 <g filter="url(#glitch)" transform="translate(60, 0)">
                   <text x="0" y="55%" fontSize="64" textAnchor="start" fill="#ffffff">Design<tspan fill="red">2</tspan>Code</text>
                 </g>
