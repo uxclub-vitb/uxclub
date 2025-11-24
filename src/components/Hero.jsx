@@ -173,6 +173,11 @@ const Hero = () => {
                     src="SDC%20Logo.png"
                     alt="SDC logo"
                   />
+                    <img
+                    className="h-14 md:h-16 object-contain ml-6 md:ml-28 pr-4"
+                    src="image4.png"
+                    alt="SDC logo"
+                  />
                 </div>
               ))}
           </div>
